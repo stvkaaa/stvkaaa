@@ -12,17 +12,7 @@
 
 <br>
 
-```
-┌──────────────────────────────┐
-│  > access: restricted        │
-│  > projects: loading...      │
-│  > identity: stvka           │
-└──────────────────────────────┘
-```
-
 <br>
-
-*Some things are better built in silence.*
 
 `Under construction.`
 
